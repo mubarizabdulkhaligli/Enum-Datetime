@@ -1,0 +1,14 @@
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task.deps.json
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.dev.json
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task.dll
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/bin/Debug/netcoreapp3.1/task.pdb
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.dll
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.pdb
+/Users/mubarizabdulkhaligli/Desktop/tasks/task/task/obj/Debug/netcoreapp3.1/task.genruntimeconfig.cache
